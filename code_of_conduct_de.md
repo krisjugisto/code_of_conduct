@@ -1,40 +1,34 @@
 # Piratenpartei Berlin Code of Conduct
 
 ## Sei respektvoll
-In a project the size of Debian, inevitably there will be people with whom you may disagree, or find it difficult to cooperate. Accept that, but even so, remain respectful. Disagreement is no excuse for poor behaviour or personal attacks, and a community in which people feel threatened is not a healthy community.
+In einer Bewegung wie der Piratenpartei sind Meinungsunterschiede, Konflikte und Störungen der Zusammenarbeit unvermeidlich. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehen oder persönliche Attacken. Ein Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
 
 ## Nimm immer gute Absichten an
-Debian Contributors have many ways of reaching our common goal of a free operating system which may differ from your ways. Assume that other people are working towards this goal.
 
-Note that many of our Contributors are not native English speakers or may have different cultural backgrounds.
+Es gibt viele verschiedene Wege um unsere gemeinsamen Ziele zu erreichen von einer freien und modernen Politik, Gesellschaft und Welt zu erreichen. Nimm immer an, dass andere Menschen in der Piratenpartei auf dieses Ziel hin arbeiten. Die Wahl der Mittel kann dir fremd sein, das Ziel bleibt aber ein gemeinsames.
+
+Nicht alle in der Partei haben denselben Hintergrund, dieselben Fähigkeiten und dasselbe Verständnis wie du, du hast nicht dasselbe Wissen, dasselbe Denken und dieselben Fähigkeiten wie andere Menschen in der Piratenpartei.
 
 ## Sei kollaborativ
-Debian is a large and complex project; there is always more to learn within Debian. It's good to ask for help when you need it. Similarly, offers for help should be seen in the context of our shared goal of improving Debian.
 
-When you make something for the benefit of the project, be willing to explain to others how it works, so that they can build on your work to make it even better.
+Wir haben große und komplexe Ziele; es gibt immer mehr zu lernen innerhalb der Piratenpartei. Es ist gut, um Hilfe zu bitten, wenn du Hilfe brauchst. Andersherum ist es gut, Hilfe anzubieten. Ebenso ist es wichtig, immer anzunehmen, dass dir angebotene Hilfe auf das Erreichen der gemeinsamen Ziele ausgerichtet ist.
+
+Wenn du einen Beitrag zu unseren gemeinsamen Zielen machst, sei immer gewillt, Anderen zu erklären, was du vorhast, wie es funktioniert. Nur so können andere darauf aufbauen und daran arbeiten, Dinge zu ändern und zu bewegen.
 
 ## Sei prägnant
-Keep in mind that what you write once will be read by hundreds of persons. Writing a short email means people can understand the conversation as efficiently as possible. When a long explanation is necessary, consider adding a summary.
 
-Try to bring new arguments to a conversation so that each mail adds something unique to the thread, keeping in mind that the rest of the thread still contains the other messages with arguments that have already been made.
+Was du beiträgst, kommt vielen zugute. Je prägnanter und präziser du deine Gedanken formulierst, umso einfacher wird es Anderen fallen, deinen Beitrag zu verstehen. Sei bereit, deine Absichten so einfach wie möglich zu vermitteln.
 
-Try to stay on topic, especially in discussions that are already fairly large.
+Im besten Fall ist jeder Beitrag eine Neuerung oder Verbesserung. Trau dich, originell zu sein; habe den Mut, verständlich zu sein. Überzeuge mit Argumenten, nicht mit Lautstärke, Macht oder Einschüchterung.
+
+Versuche immer, beim Thema zu bleiben, gerade dann, wenn es auch um persönliche Erfahrungen geht.
 
 ## Sei offen
-Most ways of communication used within Debian allow for public and private communication. As per paragraph three of the social contract, you should preferably use public methods of communication for Debian-related messages, unless posting something sensitive.
 
-This applies to messages for help or Debian-related support, too; not only is a public support request much more likely to result in an answer to your question, it also makes sure that any inadvertent mistakes made by people answering your question will be more easily detected and corrected.
+In der Regel ist die Kommunikation innerhalb der Piratenpartei öffentlich. Sie sollte aber auch privat sein, wenn dies von Anderen gewünscht ist. Die Kommunikation ist aber auch offen. Offen für Neues, Originelles, Spannendes.
+
+Bleibe offen für die Vorschläge anderer Menschen. Versuche, dich in ihre Lage zu versetzen. Arbeite auf Gemeinsames hin, nicht auf die Unterschiede.
 
 ## Im Fall von Problemen
-While this code of conduct should be adhered to by participants, we recognize that sometimes people may have a bad day, or be unaware of some of the guidelines in this code of conduct. When that happens, you may reply to them and point out this code of conduct. Such messages may be in public or in private, whatever is most appropriate. However, regardless of whether the message is public or not, it should still adhere to the relevant parts of this code of conduct; in particular, it should not be abusive or disrespectful. Assume good faith; it is more likely that participants are unaware of their bad behaviour than that they intentionally try to degrade the quality of the discussion.
 
-Serious or persistent offenders will be temporarily or permanently banned from communicating through Debian's systems. Complaints should be made (in private) to the administrators of the Debian communication forum in question. To find contact information for these administrators, please see the page on Debian's organizational structure.
-
-# Further reading
-
-Some of the links in this section do not refer to documents that are part of this code of conduct, nor are they authoritative within Debian. However, they all do contain useful information on how to conduct oneself on our communication channels.
-
-Debian has a diversity statement.
-The Debian Community Guidelines by Enrico Zini contain some advice on how to communicate effectively.
-The Mailing list code of conduct is useful for advice specific to Debian mailing lists.
-Updates to this code of conduct should follow the normal GR procedure. However, the DPL (or the DPL's delegates) can add or remove links to other documents in the "Further reading" section after consultation with the project and without requiring a GR.
+Alle von uns sollten sich an diese Grundsätze halten. Wir sollten auch anerkennen, dass in manchen Situationen einige Menschen diese Regeln brechen. Manche bewusste, andere unbewusst. Wenn dies geschieht, solltest du sie auf diese Regeln hinweisen. Dies kann sowohl öffentlich wie auch privat erfolgen, was gerade angemessen erscheint. Ob es ein öffentlicher oder privater Hinweis ist, sollte dieser Hinweis selbst im Geist dieser Regeln erfolgen. Besonders sollte der Hinweis selbst nicht missbräuchlich oder respektlos sein. Nimm immer gute Absichten an; es ist wahrscheinlicher, dass Mensch sich dieser Regeln nicht bewusst ist, als dass ein Mensch sie bewusst bricht.
