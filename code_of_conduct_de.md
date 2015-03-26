@@ -1,7 +1,7 @@
 # Piratenpartei Berlin Code of Conduct
 
 ## Sei respektvoll
-In einer Bewegung wie der Piratenpartei sind Meinungsunterschiede, Konflikte und Störungen der Zusammenarbeit unvermeidlich. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehen oder persönliche Attacken. Ein Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
+In einer Bewegung wie der Piratenpartei sind Meinungsunterschiede, Konflikte und Störungen der Zusammenarbeit unvermeidlich. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehmen oder persönliche Attacken. Eine Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
 
 ## Nimm immer gute Absichten an
 
