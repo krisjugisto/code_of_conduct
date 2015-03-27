@@ -1,13 +1,13 @@
 # Piratenpartei Berlin Code of Conduct
 
 ## Sei respektvoll
-In einer Bewegung wie der Piratenpartei sind Meinungsunterschiede, Konflikte und Störungen der Zusammenarbeit unvermeidlich. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehmen oder persönliche Attacken. Eine Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
+In einer Bewegung wie der Piratenpartei wird es Menschen geben die nicht Deiner Meinung sind oder mit denen Du es schwierig findest zu kooperieren. In einer Gruppe mit so vielen verschiedenen Individuen werden  Meinungsverschiedenheiten, Konflikte und Störungen der Zusammenarbeit unvermeidlich sein. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehmen oder persönliche Attacken. Eine Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
 
 ## Gehe von guten Absichten aus
 
-Es gibt viele verschiedene Wege um unsere gemeinsamen Ziele zu erreichen von einer freien und modernen Politik, Gesellschaft und Welt zu erreichen. Nimm immer an, dass andere Menschen in der Piratenpartei auf dieses Ziel hin arbeiten. Die Wahl der Mittel kann dir fremd sein, das Ziel bleibt aber ein gemeinsames.
+Es gibt viele verschiedene Wege unser gemeinsames Ziel von einer freien und modernen Politik, Gesellschaft und Welt zu erreichen. Gehe immer davon aus, dass andere Menschen in der Piratenpartei auch auf dieses Ziel hin arbeiten, auf Ihre Weise. Die Wahl Ihrer Mittel kann dir fremd sein, unser Ziel bleibt aber ein gemeinsames.
 
-Nicht alle in der Partei haben denselben Hintergrund, dieselben Fähigkeiten und dasselbe Verständnis wie du, du hast nicht dasselbe Wissen, dasselbe Denken und dieselben Fähigkeiten wie andere Menschen in der Piratenpartei.
+Nicht alle in der Piratenpartei haben denselben Hintergrund, dieselben Fähigkeiten und dasselbe Sachverständnis wie Du. Genauso hast Du nicht dasselbe Wissen, dasselbe Denken und dieselben Fähigkeiten wie andere Menschen in der Piratenpartei.
 
 ## Denke gemeinschaftlich
 
