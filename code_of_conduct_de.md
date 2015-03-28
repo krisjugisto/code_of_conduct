@@ -32,3 +32,5 @@ Bleibe offen für die Vorschläge anderer Menschen. Versuche, dich in ihre Lage 
 ## Wenn es mal Probleme gibt
 
 Alle von uns sollten sich an diese Grundsätze halten. Wir sollten auch anerkennen, dass in manchen Situationen einige Menschen diese Regeln brechen. Manche bewusst, andere unbewusst. Wenn dies geschieht, solltest du sie auf die Regeln in diesem Code of Conduct hinweisen. Dies kann sowohl öffentlich wie auch privat erfolgen, was gerade angemessen erscheint. Unabhängig ob es ein öffentlicher oder privater Hinweis ist, sollte dieser Hinweis selbst im Geist dieser Regeln erfolgen. Besonders sollte der Hinweis selbst nicht missbräuchlich oder respektlos sein. Nimm immer gute Absichten an; es ist wahrscheinlicher, dass ein Mensch sich dieser Regeln nicht bewusst ist, als dass ein Mensch sie bewusst bricht.
+
+Beruht in Teilen auf [Debian Code of Conduct](https://www.debian.org/code_of_conduct), das unter der [MIT License (Expat)](https://www.debian.org/legal/licenses/mit) steht.

@@ -44,3 +44,5 @@ Debian has a diversity statement.
 The Debian Community Guidelines by Enrico Zini contain some advice on how to communicate effectively.
 The Mailing list code of conduct is useful for advice specific to Debian mailing lists.
 Updates to this code of conduct should follow the normal GR procedure. However, the DPL (or the DPL's delegates) can add or remove links to other documents in the "Further reading" section after consultation with the project and without requiring a GR.
+
+Copyright © 1997-2015 SPI and others; See license terms
