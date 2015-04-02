@@ -1,5 +1,12 @@
 # Piratenpartei Berlin Code of Conduct
 
+## Wofür einen Code of Conduct?
+Das vorrangige Ziel der Piratenpartei ist es, eine größtmögliche Zahl an interessierten Menschen mit unterschiedlichen Hintergründen und diversen Herkünften für gemeinsame Arbeit innerhalb einer Partei zu gewinnen. Hierfür muss es eine Grundlage geben, auf der gemeinsam gerarbeitet wird. Diese Grundlage kann nur freundlich, sicher und wollkommenheißend sein. Geschlecht, sexuelle Orientierung, Fähigkeiten, ethnische Herkunft, sozialer Status, Weltanschauung, Alter sind für die Mitarbeit innerhalb der Piratenpartei irrelevant, insofern aus den persönlichen Hintergründen der Menschen nicht Nachteile oder Ungerechtigkeiten entstehen, die gerade mit den Mitteln der Piratenpartei aktiv berücksichtigt, gemildert, verbessert oder abgeschafft werden sollen. Unterschiede zwischen Menschen sind willkommen und begrüßenswert. Diese Unterschiede sollen Teil der persönlichen Entfaltung sein, nicht Grund und Anlass für Ausgrenzung.
+
+Es bedarf nur einer Regel: Alle Menschen sind gleich - unterschiedliche Eigenschaften, Fähigkeiten und Kenntnisse spielen innerhalb der Willensbildung der Piratenpartei keine ausgrenzende Rolle. Diese Regel hat nur eine Einschränkung, ohne diese Einschränkung kann die Gleichheit dieser Regel in der Praxis nicht hergestellt werden: Sollte es notwendig sein, bestehende Ungleichheit anerkennen zu müssen, um das Ziel der Gleichheit nicht nur innerhalb der Partei, sondern auch in der Gesellschaft und allen anderen Zusammenhängen erst erreichen zu können.
+
+In diesem Code of Conduct werden die grundlegenden Erwartungen festgehalten, um diese Regel wirksam und nachhaltig aufrechtzuerhalten. Innerhalb der Partei sind alle Menschen dazu angehalten, sich positiv, unmissverständlich und entschieden für diese Regel und ihr Ziel der Gleichheit aller einzusetzen.
+
 ## Sei respektvoll
 In einer Bewegung wie der Piratenpartei wird es Menschen geben, die nicht Deiner Meinung sind oder mit denen Du es schwierig findest zu kooperieren. In einer Gruppe mit so vielen verschiedenen Individuen werden  Meinungsverschiedenheiten, Konflikte und Störungen der Zusammenarbeit unvermeidlich sein. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehmen oder persönliche Attacken. Eine Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
 
