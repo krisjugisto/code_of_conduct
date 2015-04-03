@@ -45,6 +45,19 @@ In der Regel ist die Kommunikation innerhalb der Piratenpartei öffentlich. Sie 
 
 Bleibe offen für die Vorschläge anderer Menschen. Versuche, dich in ihre Lage zu versetzen. Arbeite auf Gemeinsames hin, nicht auf die Unterschiede.
 
+## Inakzeptables Verhalten
+Die folgenden Handlungen sind Beispiele für innerhalb der Piratenpartei ungewünschtes Verhalten. Alle Menschen dürfen darauf vertrauen, dass dieses Verhalten oder ähnliches unterlassen oder zumindest geahndet wird:
+
+  * Gewalt, Gewaltandrohung odergewalthaltige Sprach gegen einen anderen Menschen.
+  * Sexistische, rassistische, homophobe, transphobe, ableistische oder andere diskriminierende Witze und Sprache.
+  * Veröffentlichung von sexuellem oder gewalthaltigem Material.
+  * Veröffentlichung oder Androhung der Veröffentlichung von persönlichen Daten und Daten, die zur Identifikation anderer Menschen beitragen.
+  * Persönliche Beleidigungen jeder Art, beispielsweise in Bezug auf Geschlecht, sexuelle Orientierung, ethnische Herkunft, Religion oder körperliche Eigenschaften.
+  * Ungwollte körperliche, besonders sexuelle Annäherung oder Aufmerksamkeit.
+  * Absichtliche Einschüchterung, Stalking oder Verfolgung einer Person (on- wie offline).
+  * Aufruf oder Rechtfertigung der beschriebenen oder ähnlicher Verhaltensweisen.
+  * Nachhaltige Störung von Veranstaltungen, Reden, Präsentationen oder Diskursen.
+
 ## Wenn es mal Probleme gibt
 
 Alle von uns sollten sich an diese Grundsätze halten. Wir sollten auch anerkennen, dass in manchen Situationen einige Menschen diese Regeln brechen. Manche bewusst, andere unbewusst. Wenn dies geschieht, solltest du sie auf die Regeln in diesem Code of Conduct hinweisen. Dies kann sowohl öffentlich wie auch privat erfolgen, was gerade angemessen erscheint. Unabhängig, ob es ein öffentlicher oder privater Hinweis ist, sollte dieser Hinweis selbst im Geist dieser Regeln erfolgen. Besonders sollte der Hinweis selbst nicht missbräuchlich oder respektlos sein. Nimm immer gute Absichten an; es ist wahrscheinlicher, dass ein Mensch sich dieser Regeln nicht bewusst ist, als dass ein Mensch sie bewusst bricht.
