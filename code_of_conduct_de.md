@@ -14,22 +14,24 @@ Von allen Menschen innerhalb der Piratenpartei und allen Menschen, die Verfahren
 
 Außerhalb des Zusammenhangs mit der Piratenpartei finden die folgenden Grundsätze des Code of Conducts auch dann Anwendung, wenn ein Verhalten dazu geeignet ist, die Piratenpartei und ihre Mitglieder zu betreffen.
 
-## Sei respektvoll
+## Wünschwenswertes Verhalten
+
+### Sei respektvoll
 In einer Bewegung wie der Piratenpartei wird es Menschen geben, die nicht Deiner Meinung sind oder mit denen Du es schwierig findest zu kooperieren. In einer Gruppe mit so vielen verschiedenen Individuen werden  Meinungsverschiedenheiten, Konflikte und Störungen der Zusammenarbeit unvermeidlich sein. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehmen oder persönliche Attacken. Eine Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
 
-## Gehe von guten Absichten aus
+### Gehe von guten Absichten aus
 
-Es gibt viele verschiedene Wege unser gemeinsames Ziel von einer freien und modernen Politik, Gesellschaft und Welt zu erreichen. Gehe immer davon aus, dass andere Menschen in der Piratenpartei auch auf dieses Ziel hin arbeiten - auf Ihre Weise. Die Wahl Ihrer Mittel kann dir fremd sein, unser Ziel bleibt aber ein gemeinsames.
+Es gibt viele verschiedene Wege, unser gemeinsames Ziel von einer freien und modernen Politik, Gesellschaft und Welt zu erreichen. Gehe immer davon aus, dass andere Menschen in der Piratenpartei auch auf dieses Ziel hin arbeiten - auf Ihre Weise. Die Wahl Ihrer Mittel kann dir fremd sein, unser Ziel bleibt aber ein gemeinsames.
 
 Nicht alle Menschen in der Piratenpartei haben denselben Hintergrund, dieselben Fähigkeiten und dasselbe Sachverständnis wie Du. Genauso hast Du nicht dasselbe Wissen, dasselbe Denken und dieselben Eigenschaften wie andere Menschen in der Piratenpartei.
 
-## Denke gemeinschaftlich
+### Denke gemeinschaftlich
 
 Wir haben große und komplexe Ziele; es gibt immer mehr zu lernen innerhalb der Piratenpartei. Es ist gut, um Hilfe zu bitten, wenn du Hilfe brauchst. Andersherum ist es gut, Hilfe anzubieten. Ebenso ist es wichtig, immer anzunehmen, dass dir angebotene Hilfe auf das Erreichen der gemeinsamen Ziele ausgerichtet ist.
 
 Wenn du einen Beitrag zu unseren gemeinsamen Zielen machst, sei immer gewillt, Anderen zu erklären, was du vorhast, wie es funktioniert. Nur so können andere darauf aufbauen und daran arbeiten, Dinge zu ändern und zu bewegen.
 
-## Fasse Dich kurz
+### Fasse Dich kurz
 
 Was du beiträgst, kommt vielen zugute. Je prägnanter und präziser du deine Gedanken formulierst, umso einfacher wird es Anderen fallen, deinen Beitrag zu verstehen. Sei bereit, deine Absichten so einfach wie möglich zu vermitteln.
 
@@ -37,7 +39,7 @@ Im besten Fall ist jeder Beitrag eine Neuerung oder Verbesserung. Trau dich, ori
 
 Versuche immer, beim Thema zu bleiben, gerade dann, wenn es auch um persönliche Erfahrungen geht.
 
-## Sei offen und aufrichtig
+### Sei offen und aufrichtig
 
 In der Regel ist die Kommunikation innerhalb der Piratenpartei öffentlich. Sie sollte aber dann auch privat sein, wenn dies von Anderen gewünscht ist. Die Kommunikation ist aber auch offen: Offen für neues, originelles, spannendes.
 
