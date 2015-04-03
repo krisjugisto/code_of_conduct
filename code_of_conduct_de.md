@@ -9,6 +9,11 @@ Wo Vielfalt etwa durch eine schädliche Gesprächskultur unterbunden wird, ist d
 
 Dieser Code of Conduct verfolgt das Ziel größtmöglicher Inklusion aller interessierten Menschen innerhalb und außerhalb der Piratenpartei bei gleichzeitiger Exklusion von Intoleranz und Ausgrenzung.
 
+## Reichweite
+Von allen Menschen innerhalb der Piratenpartei und allen Menschen, die Verfahren, Mechanismen, Technik oder andere Mittel der Piratenpartei nutzen, wird erwartet, nach den Grundsätzen dieses Code of Conducts zu handeln.
+
+Außerhalb des Zusammenhangs mit der Piratenpartei finden die folgenden Grundsätze des Code of Conducts auch dann Anwendung, wenn ein Verhalten dazu geeignet ist, die Piratenpartei und ihre Mitglieder zu betreffen.
+
 ## Sei respektvoll
 In einer Bewegung wie der Piratenpartei wird es Menschen geben, die nicht Deiner Meinung sind oder mit denen Du es schwierig findest zu kooperieren. In einer Gruppe mit so vielen verschiedenen Individuen werden  Meinungsverschiedenheiten, Konflikte und Störungen der Zusammenarbeit unvermeidlich sein. Akzeptiere das, und vor allem: bleib respektvoll. Meinungsverschiedenheiten sind keine Entschuldigung für schlechtes Benehmen oder persönliche Attacken. Eine Bewegung, in der Menschen sich bedroht fühlen, ist nicht gesund.
 
