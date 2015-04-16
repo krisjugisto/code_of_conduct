@@ -17,3 +17,5 @@ Liebes Neumitglied, herzlich willkommen auf unserer Liste. Damit wir alle besser
 * An die Liste geschriebene Mails wurden für die Liste geschrieben. Wenn du sie aus irgendwelchen Gründen an andere Empfänger/Mailinglisten weiterleiten möchtest, frage bitte zuerst die Verfasserin/den Verfasser. (Dies ist keine Intransparenz, da sich jeder auf der Kegelklub-ML anmelden darf.)
 
 * Wenn Du dich wohl damit fühlst, freuen wir uns, wenn du eine kleine Hallo-Mail im Vorstellungsthread schreibst, in der Du ein paar Worte über dich sagst.
+
+Ist vom [Kegelklub](http://kegelklub.net/blog/mailingliste/)
